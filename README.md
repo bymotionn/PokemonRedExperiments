@@ -17,8 +17,8 @@ See how in [Training Broadcast](#training-broadcast) section
   </a>
 </p>
 
-## Join the discord server
-[![Join the Discord server!](https://invidget.switchblade.xyz/RvadteZk4G)](http://discord.gg/RvadteZk4G)
+Join the x page
+https://x.com/pokemonredpump?s=21&t=lXVBKfeN9CUevZLfvqQf1w
   
 ## Running the Pretrained Model Interactively 🎮  
 🐍 Python 3.10+ is recommended. Other versions may work but have not been tested.   
